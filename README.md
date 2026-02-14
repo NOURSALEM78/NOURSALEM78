@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Nour Alabdulaziz 👋
 
-<!--
-**NOURSALEM78/NOURSALEM78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 About Me
+- Data Science student | Class of 2026
+- Vice President at Creativity & Entrepreneurship Club, Umm Al-Qura University
+- Passionate about Git, Python, and Data Analysis
 
-Here are some ideas to get you started:
+### 🎯 Skills
+- Git & GitHub workflows
+- Python programming & data analysis
+- Dashboarding & Data Visualization
+- Project management & team coordination
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+- **Learn Git With Pathy** – Step-by-step Git learning project
+- **Mental Health Data Analysis** – Regression models & anomaly detection
+
+### 📫 Contact Me
+- Email: s44510544@uqu.edu.sa
+- GitHub: [https://github.com/NOURSALEM78](https://github.com/NOURSALEM78)
