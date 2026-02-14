@@ -63,5 +63,5 @@ _Bachelor in Data Science_ (2023 – Present)
 ---
 
 ## 🚀 Projects Highlights
-[Mental Health Data Analysis](https://www.kaggle.com/your-kaggle-project) – Regression models & anomaly detection  
+[Mental Health Data Analysis](https://www.kaggle.com/code/noursalem78/mental-health-tech-usage-analysis) – Regression models & anomaly detection  
 
